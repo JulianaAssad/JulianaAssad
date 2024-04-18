@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/873694025968943114/1230329050338426901/image.png?ex=6632ec38&is=66207738&hm=bffad6213b99e54dc184e40930a6d31562ed5c5c72e54ad42453e721cc8e9088&=&format=webp&quality=lossless" width=100% />
+<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230338007962357780/background.png?ex=6632f48f&is=66207f8f&hm=a216c4727c81fc90aaf737ee1a1c8204f512c37c1c30f949c4cefa5144af8e01&" width=100% />
 
 &nbsp;
 
