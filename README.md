@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230322462747660369/welcome_PNG59.png?ex=6632e615&is=66207115&hm=5510a3eaa52c3de179f7e904de336818259168b813d1c6f12fb0a7ae09b7ac18&" width=100% />
+![image](https://github.com/JulianaAssad/JulianaAssad/assets/161392981/365e9867-25d7-49c5-9cc0-4abaa7e67d09)<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230322462747660369/welcome_PNG59.png?ex=6632e615&is=66207115&hm=5510a3eaa52c3de179f7e904de336818259168b813d1c6f12fb0a7ae09b7ac18&" width=100% />
 
 &nbsp;
 
@@ -22,4 +22,4 @@
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E22869&fontColor=E22869&section=footer" width=100% />
+<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230302217664331847/octocat-1713397150924.png?ex=6632d33a&is=66205e3a&hm=c9dfaa15f3a3c1f27e9bffb7389b7ab0926971c9955681b0cea46d4cf7f52df7&" width=100% />
