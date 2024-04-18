@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E22869&fontColor=E22869" width=100% />
+<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230322462747660369/welcome_PNG59.png?ex=6632e615&is=66207115&hm=5510a3eaa52c3de179f7e904de336818259168b813d1c6f12fb0a7ae09b7ac18&" width=100% />
 
 &nbsp;
 
