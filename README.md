@@ -2,7 +2,7 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E22869&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+é+Juliana!;1º+Semestre+ADS+|+Anhanguera;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA8DE1&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+é+Juliana!;1º+Semestre+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 
