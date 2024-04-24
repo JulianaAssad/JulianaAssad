@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230338007962357780/background.png?ex=6632f48f&is=66207f8f&hm=a216c4727c81fc90aaf737ee1a1c8204f512c37c1c30f949c4cefa5144af8e01&" width=100% />
+<img src="https://cdn.discordapp.com/attachments/873694025968943114/1230338007962357780/background.png?ex=6629114f&is=6627bfcf&hm=73302abb0d7cff463b9ab364a78c1f60cc64775acb8f0e900b73c35ecc47ba2c&" width=100% />
 
 &nbsp;
 
@@ -19,6 +19,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-santos-batista/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolcejuuh/)
-
+[![Twitch](https://img.shields.io/badge/Twitch-3f1c99?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dolcejuuh)
 &nbsp;
 
+<img src="https://media.discordapp.net/attachments/1003672844699451444/1232484053568065617/48ae34c6139c51f22f73ce96f9d88aa0.gif?ex=66299fb8&is=66284e38&hm=21282950f3c919c08b22dfedd1f5959bdca963c28a6168783de99a1acbbd51f5&=" width=100 />
