@@ -6,11 +6,10 @@
 
 &nbsp;
 
-- 📚 Atualmente estou estudando tecnologias front-end como HTML, CSS, JavaScript, Bootstrap, Tailwind, React;
+- 📚 Atualmente estou estudando tecnologias Full-Stack;
 - 💼 Estou em busca da minha primeira experiência profissional na área;
 - 💡 Formada em Inglês na Wizard, possuo amplo conhecimento com a língua, seja escrita, comunicação, leitura e entre outros.
-- ⚡ Curiosidade sobre mim: gosto de jogar video games, assistir séries, escrever e ler livros.
-
+- ⏰ Hobies: Jogar, assistir séries/filmes, ouvir musicas, ler e escrever.
 &nbsp;
 
 <h2 align=center>🌎 Social </h2>
