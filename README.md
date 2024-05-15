@@ -21,4 +21,4 @@
    <a href="https://www.twitch.tv/dolcejuuh/" target="_blank"><img src="https://img.shields.io/badge/Twitch-3f1c99?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div> 
 
-<img src="https://media.discordapp.net/attachments/1003672844699451444/1232484053568065617/48ae34c6139c51f22f73ce96f9d88aa0.gif?ex=66299fb8&is=66284e38&hm=21282950f3c919c08b22dfedd1f5959bdca963c28a6168783de99a1acbbd51f5&=" width=100 />
+<img src="https://i.pinimg.com/originals/01/32/9f/01329fb113f9698d7e7b1e1f063aa3f7.gif" width=200 />
