@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/873694025968943114/1232531314490609674/Pink_Playful_Gaming_Girl_Twitch_Banner.gif?ex=6629cbbc&is=66287a3c&hm=d6545ca7a27a16ed392e1e970b1ecddb54392faaf97a23f7de79af67e8d58fc4&" width=100% />
+<img src="https://i.imgur.com/mDxaOSg.gif" width=100% />
 
 &nbsp;
 
@@ -7,7 +7,7 @@
 &nbsp;
 
 - 📚 Atualmente estou estudando tecnologias Full-Stack;
-- 💼 Estou em busca da minha primeira experiência profissional na área;
+- 💼 Estou em busca da minha primeira experiência profissional na área de ti;
 - 💡 Formada em Inglês na Wizard, possuo amplo conhecimento com a língua, seja escrita, comunicação, leitura e entre outros.
 - ⏰ Hobbies: Jogar, assistir séries/filmes, escutar musicas, ler e escrever livros.
 &nbsp;
