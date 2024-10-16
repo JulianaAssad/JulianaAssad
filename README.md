@@ -7,9 +7,8 @@
 &nbsp;
 
 - 📚 Atualmente estou estudando tecnologias Full-Stack;
-- 💼 Estou em busca da minha primeira experiência profissional na área de ti;
 - 💡 Formada em Inglês na Wizard, possuo amplo conhecimento com a língua, seja escrita, comunicação, leitura e entre outros.
-- ⏰ Hobbies: Jogar, assistir séries/filmes, escutar musicas, ler e escrever livros.
+- ⏰ Hobbies: Jogar, assistir séries/filmes, escutar musicas, ler e escrever livros e explorar novos idiomas.
 &nbsp;
 
 <h2 align=center>🌎 Social </h2>
