@@ -8,7 +8,7 @@
 
 - 📚 Atualmente estou estudando tecnologias Full-Stack;
 - 💡 Formada em Inglês na Wizard, possuo amplo conhecimento com a língua, seja escrita, comunicação, leitura e entre outros.
-- ⏰ Hobbies: Jogar, assistir séries/filmes, escutar musicas, ler e escrever livros e explorar novos idiomas.
+- ⏰ Hobbies: Jogar, assistir séries/filmes, escutar musicas, ler e escrever livros e explorar novos idiomas e linguagens de programação.
 &nbsp;
 
 <h2 align=center>🌎 Social </h2>
