@@ -16,7 +16,6 @@
 &nbsp;
 <div align="center">
    <a href="https://www.linkedin.com/in/juliana-santos-batista/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.instagram.com/dolcejuuh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.twitch.tv/dolcejuuh/" target="_blank"><img src="https://img.shields.io/badge/Twitch-3f1c99?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div> 
 
